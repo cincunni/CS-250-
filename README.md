@@ -1,1 +1,13 @@
-# CS-250-
+# CS-250-Sprint Review and Retrospective
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+I interpret user needs by actively engaging with stakeholder input, identifying pain points, and translating those needs into clear, actionable requirements. In the SNHU Travel project, this process involved reviewing stakeholder scenarios and understanding what users expected from a travel planning application. Creating user stories was essential because they framed requirements from the user’s perspective, focusing on who the user is, what they need, and why it matters. For example, writing stories such as “As a traveler, I want destination recommendations so that I can plan efficient trips” ensured that development stayed focused on delivering real value rather than just technical features. User stories also provided a shared understanding among team members and served as the foundation for acceptance criteria, testing, and the Definition of Done.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+I approached the program development iteratively, breaking complex systems into smaller, manageable pieces that can be developed, tested, and improved incrementally. Agile methodologies—especially Scrum—support this approach by encouraging flexibility, continuous feedback, and frequent inspection and adaptation. In future development work, I hope to continue incorporating Agile processes such as backlog refinement, sprint planning, daily stand-ups, sprint reviews, and retrospectives. These practices help maintain alignment with user needs, quickly address issues, and adapt to changing requirements. The SNHU Travel project demonstrated how Agile allows development to continue efficiently even when new features or changes are introduced mid-sprint.
+
+What does it mean to be a good team member in software development?
+
+Being a good team member in software development means communicating clearly, collaborating effectively, and remaining accountable for both individual tasks and team goals. It also requires flexibility, respect for different roles, and a willingness to seek clarification rather than make assumptions. Throughout this project, rotating through the roles of Product Owner, Developer, Tester, and Scrum Master reinforced the importance of empathy and shared responsibility. A strong team member contributes to a positive team environment by supporting transparency, participating actively in Scrum events, and focusing on delivering high-quality, user-centered solutions. Ultimately, successful software development depends on teamwork as much as technical skill.
